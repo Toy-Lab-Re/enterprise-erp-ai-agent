@@ -1,0 +1,7 @@
+# Documentation allowlist: exclude everything else.
+*
+!/.gitignore
+!/README.md
+!/docs/
+/docs/*
+!/docs/ENGINEERING_JOURNEY.md
